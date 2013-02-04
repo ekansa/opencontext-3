@@ -176,8 +176,8 @@
             <oc:name>175obv6.jpeg</oc:name>
             <oc:id>DD7D9EC2-B840-4E99-1465-E08337CC9B7F</oc:id>
             <oc:relation>link</oc:relation>
-            <oc:type/>
-            <oc:thumbnailURI/>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/domuztepe/thumbs/coins/dt5125/175obv6.jpg</oc:thumbnailURI>
           </oc:link>
           <oc:link href="http://opencontext.org/media/F63AAE6B-623B-4660-0A9E-E161ABB6A98C">
             <oc:name>175rev1.jpg</oc:name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DD7D9EC2-B840-4E99-1465-E08337CC9B7F" ownedBy="3" type="">
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DD7D9EC2-B840-4E99-1465-E08337CC9B7F" ownedBy="3" type="image">
   <arch:name>
     <arch:string>175obv6.jpeg</arch:string>
   </arch:name>
@@ -83,14 +83,14 @@
   </arch:links>
   <arch:content>
     <arch:externalFileInfo>
-      <arch:fileFormat>jpeg</arch:fileFormat>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
       <oc:FileInfo>
         <oc:FileSize ReadSize="0 B">0</oc:FileSize>
         <oc:FileName>175obv6.jpeg</oc:FileName>
       </oc:FileInfo>
-      <arch:resourceURI/>
-      <arch:previewURI/>
-      <arch:thumbnailURI/>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/domuztepe/full/coins/dt5125/175obv6.jpg</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/domuztepe/preview/coins/dt5125/175obv6.jpg</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/domuztepe/thumbs/coins/dt5125/175obv6.jpg</arch:thumbnailURI>
     </arch:externalFileInfo>
   </arch:content>
   <oc:metadata>

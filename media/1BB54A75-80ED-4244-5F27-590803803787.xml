@@ -89,9 +89,9 @@
         <oc:FileSize ReadSize="0 B">0</oc:FileSize>
         <oc:FileName>dt.25029rev.JPG</oc:FileName>
       </oc:FileInfo>
-      <arch:resourceURI/>
-      <arch:previewURI/>
-      <arch:thumbnailURI/>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/domuztepe/full/coins/dt5029/dt.25029rev.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/domuztepe/preview/coins/dt5029/dt.25029rev.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/domuztepe/thumbs/coins/dt5029/dt.25029rev.JPG</arch:thumbnailURI>
     </arch:externalFileInfo>
   </arch:content>
   <oc:metadata>
